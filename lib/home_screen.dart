@@ -1,3 +1,4 @@
+import 'package:filmy/login_screen.dart';
 import 'package:flutter/material.dart';
 import 'genres_screen.dart';
 import 'actors_screen.dart';
@@ -60,7 +61,7 @@ class HomeScreen extends StatelessWidget {
                   onTap: () {
                     Navigator.push(
                       context,
-                      MaterialPageRoute(builder: (context) => ActorsScreen()),
+                      MaterialPageRoute(builder: (context) => LoginScreen()),
                     );
                   },
                   child: Container(
