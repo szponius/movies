@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
       ],
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: 'TMDb Movies & Actors',
+        title: 'TMDb Filmy & Actors',
         theme: ThemeData(
           primarySwatch: Colors.blue,
         ),
