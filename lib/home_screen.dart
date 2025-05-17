@@ -1,4 +1,4 @@
-import 'package:filmy/NewPage.dart';
+import 'package:filmy/login_screen.dart';
 import 'package:flutter/material.dart';
 import 'genres_screen.dart';
 import 'actors_screen.dart';
